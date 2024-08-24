@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\ch03_objects_types_values\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B74B06C-D99B-497E-A743-02E83FDDE029}|ch03_objects_types_values\\ch03_objects_types_values.vcxproj|C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\ch03_objects_types_values\\ch03_objects_types_values\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B74B06C-D99B-497E-A743-02E83FDDE029}|ch03_objects_types_values\\ch03_objects_types_values.vcxproj|solutionrelative:ch03_objects_types_values\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\ch03_objects_types_values\\ch03_objects_types_values\\Source.cpp",
+              "RelativeDocumentMoniker": "ch03_objects_types_values\\Source.cpp",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\ch03_objects_types_values\\ch03_objects_types_values\\Source.cpp",
+              "RelativeToolTip": "ch03_objects_types_values\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T20:31:13.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
