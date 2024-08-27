@@ -62,7 +62,8 @@ int main()
 	cout << "That is " << kilometers << "Km.";
 	*/
 
-	//EX2 
+	/*
+	//EX2
 	cout << "Please enter two numbers\n";
 	int val1 = 0;
 	int val2 = 0;
@@ -94,5 +95,74 @@ int main()
 
 
 	return 0;
+	*/
 
+	/*
+	//string to int exercise
+	cout << "Enter a number between 0 and 4.\n";
+	string numberInput;
+	cin >> numberInput;
+	if (numberInput == "zero")
+	{
+		cout << "You entered " << numberInput;
+	}
+	else if (numberInput == "one")
+	{
+		cout << "You entered " << numberInput;
+	}
+	else if (numberInput == "two")
+	{
+		cout << "You entered " << numberInput;
+	}
+	else if (numberInput == "three")
+	{
+		cout << "You entered " << numberInput;
+	}
+	else if (numberInput == "four")
+	{
+		cout << "You entered " << numberInput;
+	}
+	else
+	{
+		cout << "Not a known number";
+	}
+
+	return 0;
+	*/
+
+	/*
+	//Enter a number and outputs if odd or even
+	int numberInput = 0;
+	cout << "Please enter an integer and will determine if it's odd or even\n";
+	cin >> numberInput;
+
+	if (numberInput % 2 == 0)
+	{
+		cout << "This is an even number";
+
+	}
+	else
+	{
+		cout << "This is a negative number";
+	}
+	*/
+
+	/*
+	//Enter three digitls and sequence back in numeric order
+	int digit1 = 0;
+	int digit2 = 0;
+	int digit3 = 0;
+
+	cout << "Enter three digits\n";
+	cin >> digit1;
+	cin >> digit2;
+	cin >> digit3;
+
+	if (digit1 > digit2) std::swap(digit1, digit2);
+	if (digit1 > digit3) std::swap(digit1, digit3);
+	if (digit2 > digit3) std::swap(digit2, digit3);
+
+	cout << "The order of the digital you eneered are " << digit1 << ", " << digit2 << ", " << digit3 << ".\n";
+	return 0;
+	*/
 }
